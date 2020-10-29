@@ -12,3 +12,11 @@ Device manager is a utility program in the Microsoft Windows operating system Co
 It allows users to view and control the hardware attached to the computer. This is a tool for when a person wants to view and manage hardware 
 devices and their drivers. The device manager has four main functions, two of which are, monitoring the status of each device, and allocating 
 the devices and deallocating them.
+
+File Management 
+
+File management includes the process of creating,modifying and deleting the files on a computer.
+In detail, this includes
+1) creating new files in a computer system and locating them to a specific place.
+2) Finding files in the computer system.
+3) helping users to modify the data of files.
