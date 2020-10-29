@@ -2,7 +2,7 @@ Memory Management
 
 Memory management manages the primary memory and moves processes back and forth between the main memory and the disk memory. 
 Memory management also keeps track of every memory location, whether it is allocated to some process or it is free. It determines 
-how much memory is to be allocated to processes. It determines which process will get memory at what time and tracks whenever 
+how much memory is to be allocated to processes?. It determines which process will get memory at what time and tracks whenever 
 some memory gets free and updates the status. Some of the most important concepts related to Memory Management are Swapping, 
 Memory Allocation, Fragmentation, Paging and Segmentation.
 
