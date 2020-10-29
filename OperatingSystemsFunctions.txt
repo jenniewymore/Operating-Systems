@@ -1,14 +1,14 @@
 Memory Management
 
 Memory management manages the primary memory and moves processes back and forth between the main memory and the disk memory. 
-Memory management keeps track of every memory location, whether it is allocated to some process or it is free. It determines 
+Memory management also keeps track of every memory location, whether it is allocated to some process or it is free. It determines 
 how much memory is to be allocated to processes. It determines which process will get memory at what time and tracks whenever 
 some memory gets free and updates the status. Some of the most important concepts related to Memory Management are Swapping, 
 Memory Allocation, Fragmentation, Paging and Segmentation.
 
 Device Manager 
 
-Device manager is a Control Panel in Microsoft Windows operating system. Allow users to view and control the hardware attached
-to the computer. Use this tool when you want to view and manage hardware devices and their drivers. The device manager four main functions 
-are monitoring the status of each device, enforcing present policies to determine which process will get a device and for how long,
-allocating the devices and deallocating them at the process level and the job level.
+Device manager is a utility program in the Microsoft Windows operating system Control Panel which performs a few simple functions. 
+It allows users to view and control the hardware attached to the computer. This is a tool for when a person wants to view and manage hardware 
+devices and their drivers. The device manager has four main functions, two of which are, monitoring the status of each device, and allocating 
+the devices and deallocating them.
